@@ -69,3 +69,54 @@
   border: none;
   color: #e3caa5;
 }
+.inputText {
+  font-size: 10px;
+  color: #fffbe9;
+}
+.guess {
+  width: 90%;
+  max-width: 400px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+input {
+  width: 80px;
+  height: 15px;
+  font-size: 10px;
+  background-color: #fffbe9;
+  border: none;
+  border-radius: 5px;
+}
+.containerInput {
+  display: flex;
+  justify-content: space-around;
+  width: 160px;
+}
+.submitButton {
+  font-size: 7px;
+  width: 30px;
+  border-radius: 5px;
+  text-decoration: none;
+  border: none;
+  background-color: #ad8b73;
+}
+.rightStyle {
+  background-color: green;
+}
+.wrongStyle {
+  background-color: red;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.shuffleButton {
+  font-size: 0.5rem;
+  border: none;
+  padding: 1px;
+  border-radius: 5px;
+  background-color: #fffbe9;
+  color: #ad8b73;
+}
