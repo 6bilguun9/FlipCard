@@ -31,8 +31,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/8bZRWSY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src = "./flashCard2.gif">
-<!-- Replace this with whatever GIF tool you used! -->
+
+<!-- <img src = "./flashCard2.gif"> -->
 
 GIF created with Kap
 
